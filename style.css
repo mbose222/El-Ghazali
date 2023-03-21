@@ -48,12 +48,14 @@
    
 }
 /* navbar contact icons */
-#nav-icons{
-  margin-left: 420px;
- 
-}
+
 #nav-icons li{
   padding-left: 10px;
+}
+
+#dropdown-border{
+  border-color: aqua;
+  border: 10px;
 }
 /* //acؤueil section// */
 .accueil{
